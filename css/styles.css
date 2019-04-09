@@ -33,7 +33,6 @@
 #f {
   background-image: url(../media/flowers.jpg);
   background-attachment: fixed;
-  background-repeat: no repeat;
   width: 100%;
 }
 body {  
